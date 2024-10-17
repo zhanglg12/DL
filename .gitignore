@@ -164,6 +164,6 @@ cython_debug/
 #d2l书籍
 mxnet/
 paddle/
-pytorch/
+pytorch*/
 tensorflow/
 test*
